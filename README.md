@@ -3,7 +3,7 @@
 ## **Ponyakorn Srinuchart 6530250433 sec.870**
 - **Nickname**: Art
 
-![Profile Picture](/New folder/93576.jpg)
+<img src="New folder (2)/445369519_2201649523514824_6493790615028912669_n.jpg" alt="Profile Picture" width="200px" />
 
 ---
 
