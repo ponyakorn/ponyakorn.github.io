@@ -34,6 +34,6 @@ to insecure or unencrypted protocols.
 ## 👥 **Team Members**
 - **🎓 6530250433 Ponyakorn Srinuchart**
 - **🎓 6530250077 Thossaphol Makpeam**  
-  🔗 **GitHub Profile:** [Thossaphol2204.github.io/security-requirement.md](https://github.com/Thossaphol2204/Thossaphol2204.github.io/blob/main/security-requirement.md)
+  🔗 **GitHub Profile:** [Thossaphol2204.github.io/security-requirement.md](https://github.com/Thossaphol2204/Thossaphol2204.github.io/blob/main/security-requirement)
 
 ---
