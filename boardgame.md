@@ -26,7 +26,7 @@
 
 ![ภาพกิจกรรม 1](MyPhoto/110094.jpg)  
 ![ภาพกิจกรรม 2](MyPhoto/109659_0.jpg)  
-![ภาพกิจกรรม 3](Picture/boardgame3.jpg)  
+![ภาพกิจกรรม 3](MyPhoto/109660_0.jpg)  
 ![ภาพกิจกรรม 4](Picture/boardgame4.jpg)  
 ![ภาพกิจกรรม 5](Picture/boardgame5.jpg)  
 
