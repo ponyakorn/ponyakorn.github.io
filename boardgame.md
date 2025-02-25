@@ -24,7 +24,7 @@
 
 ## **📸Activity Pictures**  
 
-![ภาพกิจกรรม 1](Picture/boardgame1.jpg)  
+![ภาพกิจกรรม 1](MyPhoto/110094.jpg)  
 ![ภาพกิจกรรม 2](Picture/boardgame2.jpg)  
 ![ภาพกิจกรรม 3](Picture/boardgame3.jpg)  
 ![ภาพกิจกรรม 4](Picture/boardgame4.jpg)  
